@@ -1,0 +1,6 @@
+c:\users\pc-kendall\documents\visual studio 2015\Projects\Enunciado 1-KendallNúñez\Enunciado 1-KendallNúñez\bin\Debug\Enunciado 1-KendallNúñez.exe.config
+c:\users\pc-kendall\documents\visual studio 2015\Projects\Enunciado 1-KendallNúñez\Enunciado 1-KendallNúñez\bin\Debug\Enunciado 1-KendallNúñez.exe
+c:\users\pc-kendall\documents\visual studio 2015\Projects\Enunciado 1-KendallNúñez\Enunciado 1-KendallNúñez\bin\Debug\Enunciado 1-KendallNúñez.pdb
+c:\users\pc-kendall\documents\visual studio 2015\Projects\Enunciado 1-KendallNúñez\Enunciado 1-KendallNúñez\obj\Debug\Enunciado 1-KendallNúñez.csprojResolveAssemblyReference.cache
+c:\users\pc-kendall\documents\visual studio 2015\Projects\Enunciado 1-KendallNúñez\Enunciado 1-KendallNúñez\obj\Debug\Enunciado 1-KendallNúñez.exe
+c:\users\pc-kendall\documents\visual studio 2015\Projects\Enunciado 1-KendallNúñez\Enunciado 1-KendallNúñez\obj\Debug\Enunciado 1-KendallNúñez.pdb
